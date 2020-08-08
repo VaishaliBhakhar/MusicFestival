@@ -14,3 +14,11 @@ Filter music festival data in Node, Display using React
 5. Run webpack using command `npm run webpack`
 
 6. Run project using `npm start`
+
+7. For Front end, Go to `cd FrontEnd`
+
+8. Run `npm install`
+
+9. Run Frontend using `npm start`
+
+10. If UI doesn't display anything or it shows loading screen for more than 5second, Please force reload your page as main api is not giving data everytime.
