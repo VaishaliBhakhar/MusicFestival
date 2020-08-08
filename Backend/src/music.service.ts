@@ -1,6 +1,6 @@
 import http from 'http';
 import axios from 'axios';
-import * as _ from 'lodash';    
+import _ from 'lodash';    
 
 
 export const getAllFestivalData = async () => {
